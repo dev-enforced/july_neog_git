@@ -1,4 +1,3 @@
-Floating through space on a rock.
 Types of commit messages:
 
 feat:"short feature description": Informs whether the code added provides new features
