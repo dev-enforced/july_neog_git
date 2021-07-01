@@ -1,1 +1,5 @@
 Floating through space on a rock.
+Types of commit messages:
+
+feat:"short feature description": Informs whether the code added provides new features
+fix:"short description of fix": Informs whether the code added fixes any issues
